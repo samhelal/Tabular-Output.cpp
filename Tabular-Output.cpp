@@ -1,3 +1,6 @@
+/* 8. 4.18 (Tabular Output) Write a C++ program that uses a statement and the tab escape
+sequence following table of values: ( c++ how to program )
+*/
 #include <iostream>
 using namespace std ;
 
